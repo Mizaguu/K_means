@@ -1,0 +1,1 @@
+Since you have to choose K manually, data scientists often use the Elbow Method. You plot the "Inertia" (sum of squared distances) against different values of K; the point where the rate of decrease shifts sharply (the "elbow") is typically the optimal number of clusters.
